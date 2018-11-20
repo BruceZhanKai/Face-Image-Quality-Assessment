@@ -14,7 +14,7 @@
 - [Color FERET](https://www.nist.gov/itl/iad/image-group/color-feret-database)
 
 ## Image DataSet
-- ![dataset](https://github.com/BruceZhanKai/Face-Image-Quality-Assessment/images/dataset1.jpg)
+- ![dataset](https://github.com/BruceZhanKai/Face-Image-Quality-Assessment/blob/master/images/dataset1.jpg)
  
 ## 2014 Convolutional Neural Networks for No-Reference Image Quality Assessment
 
